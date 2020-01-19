@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fb7f588a1357a4875b5bef402b3f8903
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab0: {instanceID: 0}
+  - prefab1: {instanceID: 0}
+  - prefab2: {instanceID: 0}
+  - prefab3: {instanceID: 0}
+  - prefab4: {instanceID: 0}
+  - prefab5: {instanceID: 0}
+  - FitToScanOverlay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
