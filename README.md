@@ -8,3 +8,5 @@ Step into Yayoi Kusama's infinity world with AR. Flip through the pages of her b
 - [Vuforia](https://developer.vuforia.com)
 - [Unity](https://unity.com)
 - [Cinema4D](https://www.maxon.net/en/cinema-4d)
+
+![](demo.gif)
